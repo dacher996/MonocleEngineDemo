@@ -1,0 +1,18 @@
+<atlas>
+	<tex n="\testboxes0">
+		<img n="base_cubes/yellow_base" x="0" y="0" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/white_base" x="0" y="33" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/red_base" x="0" y="66" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/green_base" x="0" y="99" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/blue_base" x="0" y="132" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/black_base" x="0" y="165" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow7" x="0" y="198" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow6" x="0" y="231" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow5" x="0" y="264" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow4" x="0" y="297" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow3" x="0" y="330" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow2" x="0" y="363" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow1" x="0" y="396" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+		<img n="base_cubes/arrow0" x="0" y="429" w="32" h="32" fx="0" fy="0" fw="32" fh="32" />
+	</tex>
+</atlas>
